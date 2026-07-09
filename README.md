@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3019-number-of-changing-keys](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3019-number-of-changing-keys) |
+## Math
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3857-minimum-cost-to-split-into-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3857-minimum-cost-to-split-into-ones) |
 <!---LeetCode Topics End-->
