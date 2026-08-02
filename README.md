@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3227-vowels-game-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
