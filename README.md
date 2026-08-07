@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1688-count-of-matches-in-tournament](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2652-sum-multiples](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2652-sum-multiples) |
 | [3227-vowels-game-in-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
