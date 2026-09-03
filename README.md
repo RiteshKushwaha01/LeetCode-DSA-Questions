@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3838-weighted-word-mapping) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
