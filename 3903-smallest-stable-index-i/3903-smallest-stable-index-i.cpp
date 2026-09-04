@@ -4,13 +4,17 @@ public:
         int n = nums.size();
         int minScore = INT_MAX;
 
+        int maxim = INT_MIN;
         for (int i = 0; i < n; i++) {
-            int maxim = INT_MIN;
-            for (int j = 0; j <= i; j++) {
-                if (nums[j] > maxim) {
-                    maxim = nums[j];
-                }
-            }
+
+            // for (int j = 0; j <= i; j++) {
+            //     if (nums[j] > maxim) {
+            //         maxim = nums[j];
+            //     }
+            // }
+            
+            maxim = max(maxim, nums[i]);
+
             int minim = INT_MAX;
             for (int k = i; k < n; k++) {
                 if (nums[k] < minim) {
