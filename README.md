@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0382-linked-list-random-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
