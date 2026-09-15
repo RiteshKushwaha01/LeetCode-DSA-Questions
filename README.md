@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Game Theory
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
