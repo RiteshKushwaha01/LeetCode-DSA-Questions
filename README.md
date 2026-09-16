@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0504-base-7) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3019-number-of-changing-keys](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3019-number-of-changing-keys) |
 | [3227-vowels-game-in-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
