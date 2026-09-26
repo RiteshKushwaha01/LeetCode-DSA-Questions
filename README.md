@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3151-special-array-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
