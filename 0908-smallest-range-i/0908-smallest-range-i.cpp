@@ -1,8 +1,8 @@
 class Solution {
 public:
     int smallestRangeI(vector<int>& nums, int k) {
-        int maxNum = INT_MIN;
-        int minNum = INT_MAX;
+        int maxNum = nums[0];
+        int minNum = nums[0];
         for (int i = 0; i < nums.size(); i++) {
             maxNum = max(maxNum, nums[i]);
             minNum = min(minNum, nums[i]);
