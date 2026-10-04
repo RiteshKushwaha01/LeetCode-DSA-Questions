@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0382-linked-list-random-node) |
+| [0441-arranging-coins](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0908-smallest-range-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0441-arranging-coins) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
