@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0856-score-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
