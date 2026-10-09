@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0495-teemo-attacking](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0908-smallest-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0908-smallest-range-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
