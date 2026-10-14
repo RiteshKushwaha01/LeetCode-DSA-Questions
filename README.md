@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1652-defuse-the-bomb](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1652-defuse-the-bomb) |
+| [2057-smallest-index-with-equal-value](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
