@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3151-special-array-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -288,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
