@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
