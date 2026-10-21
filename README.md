@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
