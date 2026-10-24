@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3838-weighted-word-mapping) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3945-digit-frequency-score) |
