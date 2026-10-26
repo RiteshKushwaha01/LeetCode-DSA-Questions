@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Brainteaser
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
