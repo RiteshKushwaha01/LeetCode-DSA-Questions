@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
