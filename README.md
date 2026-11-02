@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0908-smallest-range-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
