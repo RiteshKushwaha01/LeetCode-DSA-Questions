@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0382-linked-list-random-node](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
@@ -341,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
