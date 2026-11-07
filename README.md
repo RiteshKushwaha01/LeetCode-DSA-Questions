@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0414-third-maximum-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0525-contiguous-array) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bracket Sequences
 |  |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -352,8 +358,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
