@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
