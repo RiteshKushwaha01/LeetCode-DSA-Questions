@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0697-degree-of-an-array) |
+| [0860-lemonade-change](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0860-lemonade-change) |
 | [0908-smallest-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0908-smallest-range-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0860-lemonade-change](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
