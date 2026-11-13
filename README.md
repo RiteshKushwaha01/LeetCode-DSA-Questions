@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
+| [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bracket Sequences
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1652-defuse-the-bomb) |
 ## Bucket Sort
@@ -387,4 +390,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
