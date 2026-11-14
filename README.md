@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1652-defuse-the-bomb](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1652-defuse-the-bomb) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1688-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2652-sum-multiples) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -402,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
