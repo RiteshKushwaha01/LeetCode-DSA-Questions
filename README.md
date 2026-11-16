@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0495-teemo-attacking) |
 | [1688-count-of-matches-in-tournament](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3174-clear-digits) |
 | [3838-weighted-word-mapping](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3838-weighted-word-mapping) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3019-number-of-changing-keys](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3174-clear-digits) |
