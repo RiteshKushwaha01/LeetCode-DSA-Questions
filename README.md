@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0627-swap-sex-of-employees) |
 ## Breadth-First Search
 |  |
