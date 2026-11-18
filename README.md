@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-number-of-changing-keys](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3227-vowels-game-in-a-string) |
