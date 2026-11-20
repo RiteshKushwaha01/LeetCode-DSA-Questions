@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
 | [0239-sliding-window-maximum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0389-find-the-difference) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
