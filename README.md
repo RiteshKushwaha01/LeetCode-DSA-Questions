@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0908-smallest-range-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
