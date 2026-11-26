@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3360-stone-removal-game) |
 | [3838-weighted-word-mapping](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/2652-sum-multiples) |
 | [3227-vowels-game-in-a-string](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RiteshKushwaha01/LeetCode-DSA-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
